@@ -1,0 +1,9 @@
+name: qeemah-zatca
+version: "1.0.0"
+description: "Saudi Arabia ZATCA Phase 2 (FATOORA) e-invoicing compliance validation and KSA 15% VAT calculation tools for Hermes Agent. Powered by Qeemah Cloud."
+author: qeemah-cloud
+homepage: https://qeemahcloud.com
+category: tools
+provides_tools:
+  - ksa_vat_calculate
+  - zatca_validate_invoice
